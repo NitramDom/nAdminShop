@@ -1,0 +1,33 @@
+categories:
+  '1':
+    name: Blocs
+    material: STONE
+    items:
+      '1':
+        name: Pomme
+        material: APPLE
+        buyPrice: 2
+        sellPrice: 2
+      '2':
+        name: Torche
+        material: TORCH
+        buyPrice: 2
+        sellPrice: 2
+  '2':
+    name: Minerais
+    material: COAL_ORE
+  '3':
+    name: Provisions
+    material: BREAD
+  '4':
+    name: Colorants
+    material: INK_SACK
+  '5':
+    name: Redstone
+    material: REDSTONE
+  '6':
+    name: Spawners
+    material: MOB_SPAWNER
+  '7':
+    name: Divers
+    material: WATER_BUCKET

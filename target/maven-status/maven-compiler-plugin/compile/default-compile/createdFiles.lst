@@ -1,0 +1,8 @@
+adminshop/commands/CommandHandler.class
+adminshop/Main.class
+adminshop/utils/ShopUtils.class
+adminshop/commands/CommandInterface.class
+adminshop/config/Items.class
+adminshop/config/Config.class
+adminshop/commands/shop/Shop.class
+adminshop/listeners/EventListener.class
